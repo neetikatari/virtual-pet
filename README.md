@@ -1,1 +1,1 @@
-# Virtyal pet DAISY and her favorite activities
+# Virtual pet DAISY and her favorite activities
