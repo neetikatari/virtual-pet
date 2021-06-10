@@ -1,6 +1,6 @@
 var db, food
 var dog,dogImg
-var gameState = 1
+var gameState = 0
 function preload() {
   dogImg = loadImage("images/Dog.png")
   dogHappy = loadImage("images/happydog.png")
