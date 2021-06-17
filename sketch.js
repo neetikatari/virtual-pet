@@ -105,6 +105,7 @@ function draw() {
 
   drawSprites()
   textSize(30)
+  
   if(food <2){
     textSize(50)
     fill("red")
